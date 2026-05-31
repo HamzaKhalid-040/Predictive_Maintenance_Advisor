@@ -1,0 +1,32 @@
+# Predictive Maintenance Advisor - HVAC Expert System
+# Python 3.10+ Compatible Dependencies
+
+# Expert System Framework (compatible with Python 3.10+)
+experta==1.9.4
+frozendict==1.2.0
+
+# Web Interface
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Fuzzy Logic (Bonus Feature)
+scikit-fuzzy>=0.4.2
+
+# Graph Visualization
+networkx>=3.0
+matplotlib>=3.5.0
+
+# Testing & Quality
+pytest>=7.0.0
+
+# JSON/Data Serialization
+pytz>=2023.3
+
+# Utilities
+python-dateutil>=2.8.0
+
+# Python 3.10+ Compatibility
+typing-extensions>=4.0.0
